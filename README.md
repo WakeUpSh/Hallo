@@ -1,2 +1,2 @@
 # Hallo
-Just for education
+For fun
